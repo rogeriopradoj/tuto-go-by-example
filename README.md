@@ -8,11 +8,14 @@ Following https://gobyexample.com/ hands-on introduction
 
 - [001-hello-world.go](#001-hello-worldgo)
 - [002-values.go](#002-valuesgo)
+- [003-variables.go](#003-variablesgo)
 
 <!-- /MarkdownTOC -->
 
 
 ## 001-hello-world.go
+
+https://gobyexample.com/hello-world
 
 ```
 $ go run 001-hello-world.go
@@ -28,17 +31,28 @@ hello world
 
 ## 002-values.go
 
+https://gobyexample.com/values
+
 ```
-$ go run values.go
-golang
-1+1 = 2
-7.0/3.0 = 2.3333333333333335
-false
-true
-false
+$ go run 002-values.go
+...
 
 $ go build 002-values.go
 
 $ ./002-values
+...
+```
+
+## 003-variables.go
+
+https://gobyexample.com/variables
+
+```
+$ go run 003-variables.go
+...
+
+$ go build 003-variables.go
+
+$ ./003-variables
 ...
 ```
