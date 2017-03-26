@@ -9,6 +9,7 @@ Following https://gobyexample.com/ hands-on introduction
 - [001-hello-world.go](#001-hello-worldgo)
 - [002-values.go](#002-valuesgo)
 - [003-variables.go](#003-variablesgo)
+- [004-contants.go](#004-contantsgo)
 
 <!-- /MarkdownTOC -->
 
@@ -56,3 +57,7 @@ $ go build 003-variables.go
 $ ./003-variables
 ...
 ```
+
+## 004-contants.go
+
+https://gobyexample.com/constants
